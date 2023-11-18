@@ -1,1 +1,5 @@
 thay đổi file A
+thêm logic file a 
+thêm logic file a lần 1
+thêm ;ogic file b lần 2 
+thêm ;ogic file b lần 2 
